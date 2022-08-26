@@ -1,6 +1,8 @@
 # lab0-brandonriddle828
 lab0-brandonriddle828 created by GitHub Classroom
 
-Hey all, Im Brandon Riddle. Im currently 29, married to a wonderful woman, and proud dog dad.
-Ive currently built two sepearate projects that are being used in local small businesses.
-These projects are being used in a small engine repair shop and a local chicken farm!
+
+In this class i have learned several things about **git** and **github**.
+The branch segment is completely new to me as the last group project i worked on, we all worked on the main branch.
+One thing im still having trouble with is the idea of keeping up with what everyone is working on at the same time and how it effects my code.
+Also the *pascal* and *camel* casing which will just take time to learn
